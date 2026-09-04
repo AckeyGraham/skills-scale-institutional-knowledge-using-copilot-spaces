@@ -75,7 +75,32 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+## QA / Testing
+
+### Role Summary
+QA and testing specialists ensure quality standards are met, acceptance criteria are validated, and critical flows work as intended before release.
+
+### Responsibilities
+- Develop and maintain test plans and strategies
+- Execute unit, integration, and end-to-end testing
+- Identify, triage, and track defects
+- Validate acceptance criteria for features
+- Plan and execute smoke tests before deployment
+
+### Goals
+- Ensure features meet quality standards before release
+- Reduce production defects and customer impact
+- Enable confident delivery through comprehensive testing
+
+### Typical Communication
+- Test plans and QA status in sprint planning
+- Defect reports and test result summaries
+- Smoke test coordination during releases
+
+---
+
 ## How these personas are used in the exercise
+
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
-
+- Reference persona communication patterns when structuring project meetings, status updates, and documentation.
