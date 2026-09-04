@@ -104,3 +104,4 @@ QA and testing specialists ensure quality standards are met, acceptance criteria
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
 - Reference persona communication patterns when structuring project meetings, status updates, and documentation.
+- All personas work collaboratively to deliver successful projects through clear communication and shared ownership of quality and outcomes.
